@@ -36,10 +36,4 @@
   <a href="mailto:davicomitre@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" height="25" alt="gmail logo"  /></a>
 </div>
 
-###
-
-<div align="center">
-  <br clear="both">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-</div>
 
