@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/davi-comitre-4764a6283/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/davicomitre/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davicomitre/" height="25" alt="instagram logo"  /></a>
   <a href="https://www.youtube.com/@davicomitre6165"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=E01F21&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  /></a>
-  <a href="mailto:davicomitre@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2C2C2C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqmNlWHgfLghlNPNGdkxrhbXqWhZSLzTxmJkPDdsZWGXNgmmKcFBrNDXTSzwLxzcPMM"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2C2C2C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
 
