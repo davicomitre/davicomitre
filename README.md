@@ -36,4 +36,11 @@
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=jrjtXSqmNlWHgfLghlNPNGdkxrhbXqWhZSLzTxmJkPDdsZWGXNgmmKcFBrNDXTSzwLxzcPMM"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=2C2C2C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
+<br>
+<div align="center" display="flex">
+<p>Projetos Em Destaque: </p>
+<!--<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/373e7a18-03e6-4562-a024-ef3032ef9763" />
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/46ac085b-c713-4fd9-bd55-8ff947d13cf9" />--->
+</div>
+
 
